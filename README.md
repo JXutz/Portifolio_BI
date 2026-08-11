@@ -76,7 +76,7 @@ O projeto é dividido em cinco perspectivas de análise:
 
 `Power BI` `SQL` `Modelagem de Dados`
 
-[Ver projeto →](.Projetos/Dashboard_Winthor/Operacional)
+[Ver projeto →](<.Projetos/Dashboard Winthor/Operacional>)
 
 ---
 
@@ -100,7 +100,7 @@ O projeto utiliza conceitos de **metodologia ágil** para acompanhar o fluxo de 
 
 `Power BI` `Trello` `Tratamento de Dados`
 
-[Ver projeto →](.Projetos/Dashboard_Trello)
+[Ver projeto →](<.Projetos/Dashboard Trello>)
 
 ---
 
@@ -123,7 +123,7 @@ O projeto apresenta uma visão geográfica dos estabelecimentos e permite realiz
 
 `Power BI` `Dados Geográficos` `Visualização de Dados`
 
-[Ver projeto →](.Projetos/Dashboards_Pontos_de_Consumo)
+[Ver projeto →](<.Projetos/Dashboard Pontos de Consumo>)
 
 ---
 
