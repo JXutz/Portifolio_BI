@@ -12,9 +12,10 @@ Atualmente direcionando minha carreira para a área de **Dados e Business Intell
 
 - Bacharel em Sistemas de Informação pela FAESA
 - Experiência profissional com sistemas corporativos e bancos de dados
-- Experiência com extração e análise de dados para dashboards
+- Experiência com extração, tratamento e análise de dados
 - Desenvolvimento de consultas SQL
-- Experiência com Power BI
+- Desenvolvimento de dashboards no Power BI
+- Experiência com análise de indicadores
 - Desenvolvimento de soluções automatizadas em Java
 - Atualmente aprofundando conhecimentos em Análise de Dados
 
@@ -25,13 +26,13 @@ Atualmente direcionando minha carreira para a área de **Dados e Business Intell
 ### Dados e Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Bancos de dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Firebird](https://img.shields.io/badge/Firebird-EF2D5E?style=for-the-badge)
+![Firebird](https://img.shields.io/badge/Firebird-EF2D5E?style=for-the-badge&logo=firebird&logoColor=white)
 
 ### Desenvolvimento
 
@@ -45,50 +46,91 @@ Atualmente direcionando minha carreira para a área de **Dados e Business Intell
 
 ## 📊 Dashboards
 
-### Dashboard de Faturamento
+### 📈 Dashboard de Análise Comercial e Rentabilidade
 
-Dashboard desenvolvido para análise do desempenho de faturamento, permitindo acompanhar indicadores comerciais e sua evolução ao longo do tempo.
+Dashboard desenvolvido para análise integrada do desempenho comercial, reunindo informações de **faturamento, produtos, clientes, rentabilidade e distribuição geográfica**.
 
-**Principais indicadores:**
+O projeto é dividido em cinco perspectivas de análise:
 
-- Faturamento bruto
-- Faturamento líquido
-- Quantidade de vendas
-- Ticket médio
-- Custos
-- Lucro
-- Margem de lucro
-- Descontos
-- Faturamento por período
-- Faturamento por vendedor
-- Faturamento por filial
+- Visão Executiva
+- Produtos
+- Clientes
+- Rentabilidade
+- Geográfico
 
-**Tecnologias:**
+**Principais análises:**
 
-`Power BI` `SQL`
-
-[Ver projeto →](./dashboards/faturamento)
-
----
-
-### Dashboard de Vendas
-
-Dashboard desenvolvido para acompanhamento do desempenho de vendas.
-
-**Principais indicadores:**
-
-- Volume de vendas
-- Faturamento
-- Ticket médio
-- Quantidade de pedidos
+- Faturamento Bruto e Líquido
+- Lucro Bruto e Margem de Lucro
+- Ticket Médio
+- Evolução do faturamento
+- Desempenho por filial
 - Desempenho por vendedor
-- Desempenho por período
-- Desempenho por região
+- Desempenho por produto
+- Análise de clientes
+- Análise de rentabilidade
+- Desempenho por estado e região
+- Distribuição geográfica do faturamento
 
 **Tecnologias:**
 
-`Power BI` `SQL`
+`Power BI` `SQL` `Modelagem de Dados`
 
-[Ver projeto →](./dashboards/vendas)
+[Ver projeto →](.Projetos/Dashboard_Winthor/Operacional)
 
 ---
+
+### 📋 Dashboard de Gestão de Projetos — Trello
+
+Dashboard desenvolvido para acompanhamento da organização de projetos e distribuição de tarefas da equipe do **Setor de Informática**, utilizando dados provenientes do Trello.
+
+O projeto utiliza conceitos de **metodologia ágil** para acompanhar o fluxo de trabalho e a evolução das atividades.
+
+**Principais análises:**
+
+- Projetos e tarefas
+- Situação das atividades
+- Distribuição das tarefas entre colaboradores
+- Acompanhamento do fluxo de trabalho
+- Evolução das atividades
+- Identificação de possíveis gargalos
+- Distribuição da carga de trabalho
+
+**Tecnologias:**
+
+`Power BI` `Trello` `Tratamento de Dados`
+
+[Ver projeto →](.Projetos/Dashboard_Trello)
+
+---
+
+### 📍 Dashboard de Pontos de Consumo
+
+Dashboard desenvolvido para visualização e análise de **pontos de consumo localizados em um raio de até 15 km**, representados por estabelecimentos e empresas que podem atuar como clientes ou parceiros comerciais.
+
+O projeto apresenta uma visão geográfica dos estabelecimentos e permite realizar filtros por município e tipo de estabelecimento.
+
+**Principais funcionalidades:**
+
+- Visualização geográfica dos pontos de consumo
+- Filtro por município
+- Filtro por tipo de estabelecimento
+- Identificação da razão social
+- Distância aproximada dos estabelecimentos
+- Análise de possíveis clientes e parceiros próximos
+
+**Tecnologias:**
+
+`Power BI` `Dados Geográficos` `Visualização de Dados`
+
+[Ver projeto →](.Projetos/Dashboards_Pontos_de_Consumo)
+
+---
+
+# 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-henrique-schultz/)
+
+[GitHub](https://www.github.com/JXutz/)
+
+E-mail: joao.schultz.29@gmail.com
