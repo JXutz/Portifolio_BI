@@ -63,16 +63,16 @@ A página de **Visão Executiva** apresenta uma visão geral do desempenho comer
 
 ### Visualizações
 
-**Faturamento por Período**
+**Faturamento por Período:**
 Gráfico de linha utilizado para acompanhar a evolução do faturamento ao longo do período analisado.
 
-**Faturamento por Filial**
+**Faturamento por Filial:**
 Gráfico de colunas utilizado para comparar o faturamento entre as diferentes filiais.
 
-**Vendas por Vendedor**
+**Vendas por Vendedor:**
 Gráfico de barras para análise do desempenho de vendas por vendedor.
 
-**Vendas por Produto**
+**Vendas por Produto:**
 Gráfico de barras para identificação dos produtos com maior volume de vendas.
 
 ---
@@ -88,13 +88,13 @@ A página de **Produtos** apresenta uma análise direcionada ao desempenho dos p
 
 ### Visualizações
 
-**Faturamento por Departamento**
+**Faturamento por Departamento:**
 Gráfico de rosca utilizado para visualizar a distribuição do faturamento entre os departamentos.
 
-**Margem de Lucro por Produto — Positivo**
+**Margem de Lucro por Produto — Positivo:**
 Gráfico de colunas para identificação dos produtos com margem de lucro positiva.
 
-**Margem de Lucro por Produto — Negativo**
+**Margem de Lucro por Produto — Negativo:**
 Gráfico de barras para identificação dos produtos que apresentam margem de lucro negativa.
 
 Essa análise permite identificar produtos com diferentes níveis de rentabilidade e apoiar análises relacionadas ao desempenho do portfólio.
@@ -107,13 +107,13 @@ A página de **Clientes** apresenta uma visão sobre o comportamento da carteira
 
 ### Visualizações
 
-**Top 10 Clientes por Faturamento**
+**Top 10 Clientes por Faturamento:**
 Gráfico de barras apresentando os dez clientes com maior faturamento.
 
-**Top 10 Clientes por Volume de Compra**
+**Top 10 Clientes por Volume de Compra:**
 Gráfico de barras apresentando os dez clientes com maior volume de compras.
 
-**Detalhamento de Cliente**
+**Detalhamento de Cliente:**
 Matriz utilizada para análise detalhada das informações relacionadas aos clientes.
 
 Essa página permite identificar os principais clientes da operação e analisar sua participação nos resultados comerciais.
@@ -134,16 +134,16 @@ A página de **Rentabilidade** concentra os principais indicadores relacionados 
 
 ### Visualizações
 
-**Lucro Bruto por Departamento**
+**Lucro Bruto por Departamento:**
 Gráfico de barras utilizado para comparar o lucro bruto entre os departamentos.
 
-**Lucro Bruto por Produto**
+**Lucro Bruto por Produto:**
 Gráfico de colunas para análise do lucro bruto gerado individualmente pelos produtos.
 
-**Margem (%) por Produto**
+**Margem (%) por Produto:**
 Gráfico de colunas utilizado para comparação das margens de lucro dos produtos.
 
-**Evolução do Lucro (%)**
+**Evolução do Lucro (%):**
 Gráfico de linha utilizado para acompanhar a evolução percentual do lucro ao longo do período analisado.
 
 Essa página permite avaliar não apenas o volume de vendas, mas também a capacidade de geração de resultado da operação.
@@ -156,16 +156,16 @@ A página de **Geográfico** apresenta uma visão territorial do desempenho come
 
 ### Visualizações
 
-**Top 10 Estados com Maior Faturamento**
+**Top 10 Estados com Maior Faturamento:**
 Gráfico de barras utilizado para identificar os estados com maior participação no faturamento.
 
-**Ticket Médio por Região**
+**Ticket Médio por Região:**
 Gráfico de barras utilizado para comparar o ticket médio entre as diferentes regiões.
 
-**Faturamento por Período**
+**Faturamento por Período:**
 Gráfico de linha utilizado para acompanhar a evolução do faturamento ao longo do tempo.
 
-**Distribuição Geográfica do Faturamento**
+**Distribuição Geográfica do Faturamento:**
 Mapa utilizado para visualizar a distribuição do faturamento geograficamente.
 
 ---
