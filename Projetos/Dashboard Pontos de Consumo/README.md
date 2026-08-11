@@ -8,8 +8,8 @@ O projeto tem como objetivo facilitar a identificação e localização desses e
 
 ---
 
-[!WARNING]
-**Aviso:** Os dados apresentados neste projeto foram anonimizados ou adaptados para fins de demonstração, preservando informações internas e confidenciais.
+>[!WARNING]
+>**Aviso:** Os dados apresentados neste projeto foram anonimizados ou adaptados para fins de demonstração, preservando informações internas e confidenciais.
 
 ---
 
