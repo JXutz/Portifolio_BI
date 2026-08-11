@@ -10,6 +10,11 @@ A solução utiliza conceitos de **metodologia ágil** para auxiliar no acompanh
 
 ---
 
+> [!WARNING]
+> **Aviso:** Os dados apresentados neste projeto foram anonimizados ou adaptados para fins de demonstração, preservando informações internas e confidenciais.
+
+---
+
 ## Dashboard
 
 ![Dashboard de Gestão de Projetos](./Dashboard_Trello.png)
